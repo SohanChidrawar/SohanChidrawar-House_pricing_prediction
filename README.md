@@ -36,7 +36,7 @@ It uses a **Linear Regression** model trained on a CSV of housing data.
 - source venv/Scripts/activate  # Windows
 - source venv/bin/activate  # Mac or Linux
 
-3️⃣ ** Install Required Package: **
+3️⃣ **Install Required Package:**
 - pip install -r requirements.txt
 
 
@@ -48,6 +48,7 @@ Training model will be saved in: app/model/trained_model.pkl
 python app/app.py
 
 🔹**File Structure**
+
 House_pricing_prediction/
 ├── Housing.csv
 ├── train.py
