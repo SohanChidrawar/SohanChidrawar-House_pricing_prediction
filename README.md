@@ -45,20 +45,7 @@ It uses a **Linear Regression** model trained on a CSV of housing data.
 Training model will be saved in: app/model/trained_model.pkl
 
 🔹**Running Application**
-python app/app.py
+- python app/app.py
 
-🔹**File Structure**
 
-House_pricing_prediction/
-├── Housing.csv
-├── train.py
-├── app/
-│ ├─ app.py
-│ ├─ model/
-│ └─ templates/
-│    ├─ index.html
-│    └─ result.html
-├── requirements.txt
-├── README.md
-├── .gitignore
 
