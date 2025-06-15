@@ -46,8 +46,3 @@ print("Model trained and saved.")
 
 
 
-
-
-
-# data = pd.read_csv('Housing.csv')
-# print("Columns in CSV :", data.columns)
